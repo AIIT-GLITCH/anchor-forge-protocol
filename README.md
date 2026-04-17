@@ -32,7 +32,6 @@ Public open verification welcome as additional eyes — not required for certifi
 | Handle | Verified Runs |
 |--------|--------------|
 | Rhet Wike | founding |
-| Benjamin | founding |
 | Lucas | founding |
 
 To join the pool: gate 2 runs as open verifier with accurate results.  
